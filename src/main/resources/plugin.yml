@@ -1,0 +1,5 @@
+name: vender
+version: 1.0
+main: dev.xmroot.comercio.Vender
+commands:
+  vender:
